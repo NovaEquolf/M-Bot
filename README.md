@@ -6,8 +6,7 @@ Furry (NSFW) Discord Bot
 
 
 #### Original Bot (FurBot):
-- PhunStyle - [@phunstyle] (
-- Dustin Blackman *(Maintainer)* - [@dustinblackman](https://github.com/PhunStyle)
+- PhunStyle - [@phunstyle] (https://github.com/PhunStyle)
 
 #### FurBot Licensing Information
 - https://github.com/PhunStyle/FurBot/blob/master/LICENSE
